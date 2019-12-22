@@ -1,0 +1,4 @@
+#Sun Dec 22 18:41:56 EET 2019
+base.0=/Users/zeyneptemel/Desktop/reactnative_ulkeuygulamasi-master/ulke_uygulamasi/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
